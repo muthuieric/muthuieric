@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Muthui</h1>
 <h3 align="center">I am a skilled Full Stack Developer and creative UX Designer, proficient in crafting end-to-end web applications with intuitive and user-friendly interfaces.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhVpdY3T94f4x7IP6hu7DAI_CMzm6syA1Gw&usqp=CAU">
 
 
 
